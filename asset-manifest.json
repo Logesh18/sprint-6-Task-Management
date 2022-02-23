@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/sprint-6-House-Management/static/css/main.6ffc9446.css",
+    "main.js": "/sprint-6-House-Management/static/js/main.51b6569a.js",
+    "static/js/787.bfb3edc6.chunk.js": "/sprint-6-House-Management/static/js/787.bfb3edc6.chunk.js",
+    "index.html": "/sprint-6-House-Management/index.html",
+    "main.6ffc9446.css.map": "/sprint-6-House-Management/static/css/main.6ffc9446.css.map",
+    "main.51b6569a.js.map": "/sprint-6-House-Management/static/js/main.51b6569a.js.map",
+    "787.bfb3edc6.chunk.js.map": "/sprint-6-House-Management/static/js/787.bfb3edc6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6ffc9446.css",
+    "static/js/main.51b6569a.js"
+  ]
+}
